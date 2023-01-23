@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "codewars": "nodemon ./js/101-codewars.js",
     "palyginimas": "nodemon ./js/03-palyginimas.js",
     "veiksmai": "nodemon ./js/02-veiksmai.js",
     "inic": "nodemon ./js/01-inic.js",
