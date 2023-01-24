@@ -9,5 +9,5 @@ function solution(str) {
     return rev;
 }
 
-//console.log(solution('world'),'-->', 'dlrow');
-//console.log(solution('word'),'-->', 'drow');
+console.log(solution('world'),'-->', 'dlrow');
+console.log(solution('word'),'-->', 'drow');
