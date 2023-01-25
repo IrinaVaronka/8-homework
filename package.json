@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "reverseWords": "nodemon ./js/103-reverseWords.js",
     "reversedStrings": "nodemon ./js/102-reversedStrings.js",
     "codewars": "nodemon ./js/101-codewars.js",
     "palyginimas": "nodemon ./js/03-palyginimas.js",
