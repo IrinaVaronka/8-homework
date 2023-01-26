@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "oppositeNumber": "nodemon ./js/108-oppositeNumber.js",
+    "GrasshopperSum": "nodemon ./js/107-GrasshopperSum.js",
+    "polishAlphabet": "nodemon ./js/106-polishAlphabet.js",
     "sumOfPositive": "nodemon ./js/105-sumOfPositive.js",
     "allYouneed": "nodemon ./js/104-allYouneed.js",
     "reverseWords": "nodemon ./js/103-reverseWords.js",
