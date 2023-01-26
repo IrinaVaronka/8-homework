@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "sumOfPositive": "nodemon ./js/105-sumOfPositive.js",
     "allYouneed": "nodemon ./js/104-allYouneed.js",
     "reverseWords": "nodemon ./js/103-reverseWords.js",
     "reversedStrings": "nodemon ./js/102-reversedStrings.js",
